@@ -11,11 +11,6 @@ import java.io.IOException;
  * Created on Jan 3, 2013, 9:30:45 PM
  */
 
-
-/**
- *
- * @author 
- */
 public class Admin extends javax.swing.JFrame {
 taxi2 taxi =new taxi2();
 customer_details customerdet =new customer_details();
@@ -84,7 +79,7 @@ this.setTitle("CAB SERVICE");
             }
         });
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Hamzah\\Desktop\\taxi.9485942.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\hamzah\\Desktop\\taxi.9485942.jpg")); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

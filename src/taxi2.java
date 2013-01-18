@@ -12,7 +12,7 @@
 
 /**
  *
- * @author Hamzah
+ * @author Mandeep
  */
 public class taxi2 extends javax.swing.JFrame {
 
